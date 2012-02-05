@@ -10,7 +10,7 @@ import com.icesoft.faces.component.ext.HtmlCommandButton;
 import com.sun.rave.web.ui.appbase.AbstractPageBean;
 import javax.faces.FacesException;
 import javax.faces.event.ValueChangeEvent;
-
+//helloddddddd
 /**
  * <p>Page bean that corresponds to a similarly named JSP page.  This
  * class contains component definitions (and initialization code) for
@@ -18,7 +18,7 @@ import javax.faces.event.ValueChangeEvent;
  * lifecycle methods and event handlers where you may add behavior
  * to respond to incoming events.</p>
  */
-public class Page1 extends AbstractPageBean {
+public class Page1 extends AbstractPa {
     // <editor-fold defaultstate="collapsed" desc="Managed Component Definition">
     private int __placeholder;
     
